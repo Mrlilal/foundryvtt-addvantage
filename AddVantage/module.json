@@ -1,0 +1,16 @@
+{
+	"name": "addvantage",
+	"title": "AddVantage",
+	"description": "Add advantage and disadvantage indicators on your D&D 5th Edition character sheet.",
+	"version": "0.0.0",
+	"author": "Mrlilal & Colenk",
+	"minimumCoreVersion": "0.6.6",
+	"compatibleCoreVersion": "0.6.6",
+	"systems": ["dnd5e"],
+	"minimumSystemVersion": "0.94",
+	"esmodules": ["addvantage.js"],
+	"styles": ["/css/addvantage.css"],
+	"url": "https://github.com/Mrlilal/foundryvtt-addvantage",
+	"manifest": "https://raw.githubusercontent.com/Mrlilal/foundryvtt-addvantage/dev/addvantage/module.json",
+	"download": "https://github.com/Mrlilal/foundryvtt-addvantage/blob/dev/addvantage.zip?raw=true"
+}
